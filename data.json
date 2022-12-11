@@ -1,0 +1,87 @@
+[
+	{
+			"name": "Кристоф Верон",
+			"coatColor": "rgb(146, 100, 161)",
+			"eyesColor": "green"
+	},
+	{
+			"name": "Иван Нионго",
+			"coatColor": "rgb(0, 0, 0)",
+			"eyesColor": "black"
+	},
+	{
+			"name": "Виктор Нионго",
+			"coatColor": "rgb(215, 210, 55)",
+			"eyesColor": "red"
+	},
+	{
+			"name": "Мария Вальц",
+			"coatColor": "rgb(215, 210, 55)",
+			"eyesColor": "yellow"
+	},
+	{
+			"name": "Люпита да Марья",
+			"coatColor": "rgb(146, 100, 161)",
+			"eyesColor": "red"
+	},
+	{
+			"name": "Кристоф Онопко",
+			"coatColor": "rgb(56, 159, 117)",
+			"eyesColor": "red"
+	},
+	{
+			"name": "Люпита Онопко",
+			"coatColor": "rgb(56, 159, 117)",
+			"eyesColor": "yellow"
+	},
+	{
+			"name": "Юлия Ирвинг",
+			"coatColor": "rgb(0, 0, 0)",
+			"eyesColor": "yellow"
+	},
+	{
+			"name": "Люпита да Марья",
+			"coatColor": "rgb(0, 0, 0)",
+			"eyesColor": "yellow"
+	},
+	{
+			"name": "Виктор Ирвинг",
+			"coatColor": "rgb(215, 210, 55)",
+			"eyesColor": "black"
+	},
+	{
+			"name": "Вашингтон Мирабелла",
+			"coatColor": "rgb(215, 210, 55)",
+			"eyesColor": "red"
+	},
+	{
+			"name": "Иван Вальц",
+			"coatColor": "rgb(56, 159, 117)",
+			"eyesColor": "blue"
+	},
+	{
+			"name": "Хуан Себастьян Нионго",
+			"coatColor": "rgb(56, 159, 117)",
+			"eyesColor": "red"
+	},
+	{
+			"name": "Хуан Себастьян Топольницкая",
+			"coatColor": "rgb(0, 0, 0)",
+			"eyesColor": "blue"
+	},
+	{
+			"name": "Мария да Марья",
+			"coatColor": "rgb(101, 137, 164)",
+			"eyesColor": "yellow"
+	},
+	{
+			"name": "Хуан Себастьян Мирабелла",
+			"coatColor": "rgb(146, 100, 161)",
+			"eyesColor": "red"
+	},
+	{
+			"name": "Иван Мирабелла",
+			"coatColor": "rgb(0, 0, 0)",
+			"eyesColor": "red"
+	}
+]
