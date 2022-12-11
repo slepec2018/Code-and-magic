@@ -1,87 +1,87 @@
 [
 	{
-			"name": "Кристоф Верон",
+			"name": "Ivan Mirabella",
+			"coatColor": "rgb(215, 210, 55)",
+			"eyesColor": "red"
+	},
+	{
+			"name": "Julia Irving",
 			"coatColor": "rgb(146, 100, 161)",
+			"eyesColor": "black"
+	},
+	{
+			"name": "Maria Mirabella",
+			"coatColor": "rgb(101, 137, 164)",
+			"eyesColor": "black"
+	},
+	{
+			"name": "Ivan Onopko",
+			"coatColor": "rgb(101, 137, 164)",
 			"eyesColor": "green"
 	},
 	{
-			"name": "Иван Нионго",
-			"coatColor": "rgb(0, 0, 0)",
+			"name": "Maria Mirabella",
+			"coatColor": "rgb(56, 159, 117)",
 			"eyesColor": "black"
 	},
 	{
-			"name": "Виктор Нионго",
-			"coatColor": "rgb(215, 210, 55)",
-			"eyesColor": "red"
-	},
-	{
-			"name": "Мария Вальц",
-			"coatColor": "rgb(215, 210, 55)",
-			"eyesColor": "yellow"
-	},
-	{
-			"name": "Люпита да Марья",
-			"coatColor": "rgb(146, 100, 161)",
-			"eyesColor": "red"
-	},
-	{
-			"name": "Кристоф Онопко",
-			"coatColor": "rgb(56, 159, 117)",
-			"eyesColor": "red"
-	},
-	{
-			"name": "Люпита Онопко",
-			"coatColor": "rgb(56, 159, 117)",
-			"eyesColor": "yellow"
-	},
-	{
-			"name": "Юлия Ирвинг",
-			"coatColor": "rgb(0, 0, 0)",
-			"eyesColor": "yellow"
-	},
-	{
-			"name": "Люпита да Марья",
-			"coatColor": "rgb(0, 0, 0)",
-			"eyesColor": "yellow"
-	},
-	{
-			"name": "Виктор Ирвинг",
-			"coatColor": "rgb(215, 210, 55)",
-			"eyesColor": "black"
-	},
-	{
-			"name": "Вашингтон Мирабелла",
-			"coatColor": "rgb(215, 210, 55)",
-			"eyesColor": "red"
-	},
-	{
-			"name": "Иван Вальц",
-			"coatColor": "rgb(56, 159, 117)",
-			"eyesColor": "blue"
-	},
-	{
-			"name": "Хуан Себастьян Нионго",
-			"coatColor": "rgb(56, 159, 117)",
-			"eyesColor": "red"
-	},
-	{
-			"name": "Хуан Себастьян Топольницкая",
-			"coatColor": "rgb(0, 0, 0)",
-			"eyesColor": "blue"
-	},
-	{
-			"name": "Мария да Марья",
+			"name": "Christoph Waltz",
 			"coatColor": "rgb(101, 137, 164)",
 			"eyesColor": "yellow"
 	},
 	{
-			"name": "Хуан Себастьян Мирабелла",
+			"name": "Julia and Marya",
 			"coatColor": "rgb(146, 100, 161)",
+			"eyesColor": "yellow"
+	},
+	{
+			"name": "Maria Waltz",
+			"coatColor": "rgb(56, 159, 117)",
+			"eyesColor": "blue"
+	},
+	{
+			"name": "Juan Sebastian Waltz",
+			"coatColor": "rgb(146, 100, 161)",
+			"eyesColor": "green"
+	},
+	{
+			"name": "Lupita Irving",
+			"coatColor": "rgb(241, 43, 107)",
+			"eyesColor": "green"
+	},
+	{
+			"name": "Washington and Marya",
+			"coatColor": "rgb(241, 43, 107)",
 			"eyesColor": "red"
 	},
 	{
-			"name": "Иван Мирабелла",
-			"coatColor": "rgb(0, 0, 0)",
+			"name": "Christoph Veron",
+			"coatColor": "rgb(101, 137, 164)",
 			"eyesColor": "red"
+	},
+	{
+			"name": "Julia and Marya",
+			"coatColor": "rgb(56, 159, 117)",
+			"eyesColor": "yellow"
+	},
+	{
+			"name": "Washington Nyongo",
+			"coatColor": "rgb(101, 137, 164)",
+			"eyesColor": "blue"
+	},
+	{
+			"name": "Lupita Mirabella",
+			"coatColor": "rgb(215, 210, 55)",
+			"eyesColor": "blue"
+	},
+	{
+			"name": "Juan Sebastian and Marya",
+			"coatColor": "rgb(0, 0, 0)",
+			"eyesColor": "blue"
+	},
+	{
+			"name": "Maria Nyongo",
+			"coatColor": "rgb(241, 43, 107)",
+			"eyesColor": "blue"
 	}
 ]
