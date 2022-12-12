@@ -5,7 +5,6 @@ const getData = (onSuccess, onFail = error ) => {
 	fetch('https://raw.githubusercontent.com/slepec2018/Code-and-magic/master/data.json')
 		.then((response) => response.json())
 		.then((wizards) => {
-			console.log(createWizards());
 			onSuccess(wizards);
 		})
 		.catch((err) => {
