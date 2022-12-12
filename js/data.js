@@ -40,8 +40,8 @@ const SIMILAR_WIZARD_COUNT = 17;
 // Mage Card Creation Function
 const createWizard = () => ({
 	name: `${getRandomArrayElement(NAMES)} ${getRandomArrayElement(SURNAMES)}`,
-	coatColor: getRandomArrayElement(COAT_COLORS),
-	eyesColor: getRandomArrayElement(EYES_COLORS),
+	colorCoat: getRandomArrayElement(COAT_COLORS),
+	colorEyes: getRandomArrayElement(EYES_COLORS),
 });
 
 // The function of creating an array of cards of magicians
