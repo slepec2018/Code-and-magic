@@ -2,9 +2,10 @@ import { createWizards } from './data.js';
 const { error } = console;
 // Getting data from the server
 const getData = (onSuccess, onFail = error ) => {
-	fetch('https://27.javascript.pages.academy/code-and-magick/data')
+	fetch('https://raw.githubusercontent.com/slepec2018/Code-and-magic/master/data.json')
 		.then((response) => response.json())
 		.then((wizards) => {
+			console.log(createWizards());
 			onSuccess(wizards);
 		})
 		.catch((err) => {
